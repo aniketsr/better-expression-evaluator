@@ -5,7 +5,7 @@ apply plugin: 'idea'
 group = "aniketsr"
 version = "0.1"
 
-mainClassName="aniketsr.Main" // Change it to your main class
+mainClassName="aniketsr.Expression" // Change it to your main class
 
 repositories { mavenCentral() }
 
